@@ -1,0 +1,6 @@
+pydantic
+fastapi[standard]
+uvicorn[standard]
+sqlalchemy
+dotenv
+cohere
